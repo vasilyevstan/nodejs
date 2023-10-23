@@ -1,0 +1,7 @@
+20230927	19:46:35	1e2f8850-3c08-465b-b4be-6107a2ec02cf	Log event emitted again
+20230927	19:47:08	c6eaff7e-33ba-4744-aeac-1dee5cc740fc	Log event emitted again
+20230927	19:47:17	3ff4a74a-b7bb-4d3e-af81-24e161404704	Log event emitted again
+20230927	19:49:02	53a9e1b6-e804-44da-9ce4-194a945ec95e	Log event emitted again
+20230927	19:51:17	3e745ca5-b39a-4331-b9ec-a879196c76a2	Log event emitted again
+20230927	19:56:28	e8405fa8-2e03-4873-8c22-eeeadb2ce446	Log event emitted again
+20230927	19:56:44	94aff220-8455-40de-81f4-8746a1686589	Log event emitted again

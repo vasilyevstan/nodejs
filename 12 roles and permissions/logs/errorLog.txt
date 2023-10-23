@@ -1,0 +1,4 @@
+20231002	11:42:37	e3319b6d-6065-4fd7-827d-766402b00df5	Error: Not allowed by CORS
+20231002	16:44:49	f1ab46ad-feb6-48bf-8049-97c3a3cbed66	ReferenceError: data is not defined
+20231002	16:46:23	70d9878e-a4bc-4a03-9ded-fc582bd1eb7b	ReferenceError: data is not defined
+20231005	15:32:55	81e0e098-5ce3-45dc-ab60-1508945313c2	TypeError: res.SendStatus is not a function
